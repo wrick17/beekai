@@ -1,4 +1,4 @@
-" Maintainer:	Stephane Demotte
+" Maintainer: 	Stephane Demotte
 " Version:      1.0
 " Last Change:	April, 2015
 " Credits:      This is a modification of BusyBee color scheme
@@ -44,9 +44,9 @@ hi Identifier 	   guifg=#b1d631 gui=none ctermfg=148
 hi Function 	   guifg=#ffff00 gui=none ctermfg=255
 hi Type 		   guifg=#7e8aa2 gui=none ctermfg=103
 hi Statement 	   guifg=#7e8aa2 gui=none ctermfg=103
-hi Keyword		   guifg=#ff9f00 gui=none ctermfg=208
-hi Constant 	   guifg=#ff9f00 gui=none  ctermfg=208
-hi Number		   guifg=#ff9f00 gui=none ctermfg=208
-hi Special		   guifg=#ff9f00 gui=none ctermfg=208
+hi Keyword		   guifg=#ff68a1 gui=none ctermfg=208
+hi Constant 	   guifg=#ff68a1 gui=none  ctermfg=208
+hi Number		   guifg=#ff68a1 gui=none ctermfg=208
+hi Special		   guifg=#ff68a1 gui=none ctermfg=208
 hi PreProc 		   guifg=#faf4c6 gui=none ctermfg=230
-hi Todo            guifg=#ff9f00 guibg=#111111 gui=none
+hi Todo            guifg=#ff68a1 guibg=#111111 gui=none
