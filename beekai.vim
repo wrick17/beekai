@@ -1,7 +1,7 @@
-" Maintainer:	Patrick J. Anderson
-" Version:      1.0.1
-" Last Change:	February 23, 2009
-" Credits:      This is a modification of Mustang.vim color scheme
+" Maintainer:	Stephane Demotte
+" Version:      1.0
+" Last Change:	April, 2015
+" Credits:      This is a modification of BusyBee color scheme
 
 set background=dark
 
@@ -11,7 +11,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "busybee"
+let colors_name = "beekai"
 
 " Vim >= 7.0 specific colors
 if version >= 700
